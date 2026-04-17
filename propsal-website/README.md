@@ -50,7 +50,7 @@ propsal-website/
 npm install
 ```
 
-### Run in Development
+[O### Run in Development
 
 ```bash
 npm run dev
@@ -90,6 +90,8 @@ The optimized output is generated in `dist/`, ready for deployment on platforms 
 	- Build command: `npm run build`
 	- Output directory: `dist`
 - Make sure static files in `public/` are included in your repo.
+
+
 
 
 
